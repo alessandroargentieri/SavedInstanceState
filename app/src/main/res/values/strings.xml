@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SavedInstanceState</string>
+    <string name="explaination">This app demonstrates the use of SavedInstanceState. Try to rotate your device after having edited and submitted something. It will hold the text value in the TextView.</string>
+</resources>
